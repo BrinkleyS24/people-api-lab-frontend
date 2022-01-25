@@ -9,7 +9,7 @@ $contrastcolor: white;
   background-color: $maincolor;
 }
 
-@mixin black-test-white-bg {
+@mixin black-text-white-bg {
   color: $maincolor;
   background-color: $contrastcolor;
 }
