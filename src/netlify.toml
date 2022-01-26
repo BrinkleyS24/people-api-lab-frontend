@@ -1,0 +1,3 @@
+git[[redirects]]
+  from = "/*"
+  to = "/index.html"
